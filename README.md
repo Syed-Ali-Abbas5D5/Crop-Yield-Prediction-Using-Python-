@@ -34,5 +34,3 @@ $ python app.py
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(25).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(26).png)](https://github.com/rahuldkjain/Crop_Prediction)
 [![ApnaAnaaj](https://github.com/rahuldkjain/Crop_Prediction/blob/master/static/Screenshot%20(27).png)](https://github.com/rahuldkjain/Crop_Prediction)
-
-
